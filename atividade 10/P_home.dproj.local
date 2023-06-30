@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/03 23:26:56.000.624,=C:\Users\huszc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/22 15:53:51.000.109,=C:\Users\huszc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 11:10:26.000.525,=C:\Users\huszc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 11:12:34.000.730,C:\Users\huszc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_home.pas</Transaction>
+    <Transaction>2023/06/28 11:12:34.000.730,C:\Users\huszc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_home.dfm</Transaction>
+    <Transaction>2023/06/28 11:12:46.000.180,C:\Users\huszc\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\P_home.dproj</Transaction>
+    <Transaction>2023/06/28 13:53:52.000.647,=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit2.pas</Transaction>
+    <Transaction>2023/06/28 14:03:53.000.762,C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit2.pas=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_cadastro.pas</Transaction>
+    <Transaction>2023/06/28 14:03:53.000.762,C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit2.dfm=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_cadastro.dfm</Transaction>
+    <Transaction>2023/06/28 17:17:05.000.354,=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit1.pas</Transaction>
+    <Transaction>2023/06/28 17:21:46.000.727,C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit1.dfm=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_clientes.dfm</Transaction>
+    <Transaction>2023/06/28 17:21:46.000.727,C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit1.pas=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_clientes.pas</Transaction>
+    <Transaction>2023/06/29 15:10:00.000.520,=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit1.pas</Transaction>
+    <Transaction>2023/06/29 15:10:15.000.945,C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\Unit1.pas=C:\Users\huszc\OneDrive\Área de Trabalho\atividade 10\U_classes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
